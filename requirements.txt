@@ -4,3 +4,5 @@ tensorflow
 pandas
 numpy
 keras
+pil
+opencv-python
