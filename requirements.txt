@@ -4,5 +4,5 @@ tensorflow
 pandas
 numpy
 keras
-pil
+pillow
 opencv-python
